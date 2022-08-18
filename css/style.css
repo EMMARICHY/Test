@@ -1,0 +1,30 @@
+body
+{
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    color: #181818; 
+    width: 900px;
+    margin: auto;
+}
+p,a{
+    text-align: justify;
+    text-decoration: none;
+    color: #181818;
+}
+a:hover{
+    text-decoration: underline;
+    color: #23ebb6;
+}
+h1
+{
+   text-align: center;
+}
+header #Coordonee{
+    display: flex;
+}
+header #Coordonee a img{
+    position: absolute;
+    right: auto;
+    float:right
+}
+
+
